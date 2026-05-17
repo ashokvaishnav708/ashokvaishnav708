@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Experienced software engineer, building production ready web apps, APIs, Middlewares and capable bringing thoughts to visibility.<br>📚 I'm currently learning "From LLMs to AI Agents" course at edu.opencampus.sh<br>🎯 Goals: Always learning & leveling up in the tech world<br>🎲 Fun fact: I used to write C to talk directly to bare metal, and now I write JavaScript/TypeScript to convince browsers to do what I want.</p>
+<p align="left">✨ Experienced software engineer, building production ready web apps, APIs, Middlewares and capable bringing thoughts to visibility.<br>📚 I'm currently learning "From LLMs to AI Agents" course at <a href="edu.opencampus.sh">OpenCampus </a><br>🎯 Goals: Always learning & leveling up in the tech world<br>🎲 Fun fact: I used to write C to talk directly to bare metal, and now I write JavaScript/TypeScript to convince browsers to do what I want.</p>
 
 ###
 
@@ -53,11 +53,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="40" alt="couchdb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -67,11 +69,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
