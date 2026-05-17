@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Experienced software engineer, building production ready web apps, APIs, Middlewares and capable bringing thoughts to visibility.<br>📚 I'm currently learning "From LLMs to AI Agents" course at <a href="edu.opencampus.sh">OpenCampus </a><br>🎯 Goals: Always learning & leveling up in the tech world<br>🎲 Fun fact: I used to write C to talk directly to bare metal, and now I write JavaScript/TypeScript to convince browsers to do what I want.</p>
+<p align="left">✨ Experienced software engineer, building production ready web apps, APIs, Middlewares and capable bringing thoughts to visibility.<br>📚 I'm currently learning "From LLMs to AI Agents" course at <a href="https://edu.opencampus.sh">OpenCampus </a><br>🎯 Goals: Always learning & leveling up in the tech world<br>🎲 Fun fact: I used to write C to talk directly to bare metal, and now I write JavaScript/TypeScript to convince browsers to do what I want.</p>
 
 ###
 
